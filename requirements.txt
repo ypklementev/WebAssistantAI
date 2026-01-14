@@ -1,0 +1,8 @@
+openai>=1.30.0
+playwright
+beautifulsoup4
+requests
+python-dotenv
+utils
+selenium
+webdriver-manager
